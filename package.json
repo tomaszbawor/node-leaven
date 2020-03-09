@@ -1,0 +1,9 @@
+{
+  "name": "node-leaven",
+  "version": "0.0.1-SNAPSHOT",
+  "description": "Leaven project for nodejs",
+  "main": "index.js",
+  "repository": "https://github.com/tomaszbawor/node-leaven.git",
+  "author": "Tomasz Bawor <tomasz.bawor@schibsted.com>",
+  "license": "MIT"
+}
